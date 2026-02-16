@@ -13,9 +13,12 @@ namespace Tyuiu.GnidenkoPA.Sprint6.Task5.V8.Lib
                 {
                     len++;
                 }
+
             }
+
             double[] numsArray = new double[len];
             int index = 0;
+
             using (StreamReader reader = new StreamReader(path))
             {
                 string line;
@@ -26,6 +29,7 @@ namespace Tyuiu.GnidenkoPA.Sprint6.Task5.V8.Lib
                 }
             }
             numsArray = numsArray.Where(val => val < 0).ToArray();
+
             return numsArray;
         }
     }

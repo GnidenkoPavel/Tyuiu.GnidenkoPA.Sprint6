@@ -1,20 +1,18 @@
-﻿using System;
-using System.Windows.Forms;
-using Tyuiu.GnidenkoPA.Sprint6.Task5.V8.Lib;
+﻿using static System.Net.Mime.MediaTypeNames;
 
 namespace Tyuiu.GnidenkoPA.Sprint6.Task5.V8
 {
     internal static class Program
     {
-       
-        
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
         [STAThread]
         static void Main()
         {
-           
-           https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new FormMain());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new FormMain_HNA());
         }
     }
 }
