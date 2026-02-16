@@ -1,16 +1,20 @@
 ﻿using System;
 using System.Windows.Forms;
 using Tyuiu.GnidenkoPA.Sprint6.Task5.V8.Lib;
+
 namespace Tyuiu.GnidenkoPA.Sprint6.Task5.V8
 {
     internal static class Program
     {
+       
+        
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1()); 
+           
+           https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+            Application.Run(new FormMain());
         }
     }
 }
