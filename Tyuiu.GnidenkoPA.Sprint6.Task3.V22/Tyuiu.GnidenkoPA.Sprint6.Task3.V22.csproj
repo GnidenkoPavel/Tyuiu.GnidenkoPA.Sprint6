@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<!-- ВАЖНО: WinExe, не Exe -->
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<!-- ВАЖНО: -windows -->
+		<UseWindowsForms>true</UseWindowsForms>
+		<!-- ВАЖНО: true -->
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Tyuiu.GnidenkoPA.Sprint6.Task3.V22.Lib\Tyuiu.GnidenkoPA.Sprint6.Task3.V22.Lib.csproj" />
+	</ItemGroup>
+
+</Project>

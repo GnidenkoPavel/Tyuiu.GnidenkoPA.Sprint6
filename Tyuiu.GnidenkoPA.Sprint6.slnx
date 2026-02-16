@@ -14,6 +14,11 @@
     <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task2.V4.Test/Tyuiu.GnidenkoPA.Sprint6.Task2.V4.Test.csproj" Id="0250d41c-c548-414c-a51b-2cf3aa898d3b" />
     <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task2.V4/Tyuiu.GnidenkoPA.Sprint6.Task2.V4.csproj" Id="ceb9f4ed-c43d-4c19-9816-cd0b87af1b3a" />
   </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task3.V22.Lib/Tyuiu.GnidenkoPA.Sprint6.Task3.V22.Lib.csproj" Id="7178afc8-9ae4-48d5-999b-b479d70bf7af" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task3.V22.Test/Tyuiu.GnidenkoPA.Sprint6.Task3.V22.Test.csproj" Id="09d532e0-5e45-4956-b7e3-9b55b3137543" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task3.V22/Tyuiu.GnidenkoPA.Sprint6.Task3.V22.csproj" Id="712a7eec-0a51-4e80-b11d-19469d23b43d" />
+  </Folder>
   <Folder Name="/Task4/">
     <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Lib/Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Lib.csproj" />
     <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Test/Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Test.csproj" />
