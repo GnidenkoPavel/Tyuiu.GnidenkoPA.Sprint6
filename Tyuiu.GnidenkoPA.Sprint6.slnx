@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task0.V6.Lib/Tyuiu.GnidenkoPA.Sprint6.Task0.V6.Lib.csproj" Id="cf60d688-f31f-4912-81f5-c99c2d4756e0" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task0.V6.Test/Tyuiu.GnidenkoPA.Sprint6.Task0.V6.Test.csproj" Id="304f6308-a479-4c34-9a50-17295ea599c3" />
+    <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task0.V6/Tyuiu.GnidenkoPA.Sprint6.Task0.V6.csproj" Id="0aadbe0e-aa29-416a-b226-40c88217b294" />
+  </Folder>
   <Folder Name="/Task4/">
     <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Lib/Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Lib.csproj" />
     <Project Path="Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Test/Tyuiu.GnidenkoPA.Sprint6.Task4.V9.Test.csproj" />
